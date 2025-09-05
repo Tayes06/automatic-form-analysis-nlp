@@ -1,3 +1,5 @@
+For English version, see [README_en.md](README_en.md)
+
 # Analyse automatique des réponses à des formulaires numériques
 
 🎓 Projet de fin de cycle – Ingénierie Informatique  
