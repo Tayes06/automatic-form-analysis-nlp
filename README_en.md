@@ -1,14 +1,10 @@
-Pour la version en français [Cliquez ici](README.md)
-
----
+Pour la version en français, [Cliquez ici](README.md)
 
 # Automatic Analysis of Digital Form Responses
 
 🎓 Final Year Project – Computer Engineering
-
-**👨‍💻 Author:** Tayo Tate Desmond Corentin
-
-**📌 Objective:** Automate the analysis of open-ended form responses to save time and extract actionable insights.
+👨‍💻 Author: Tayo Tate Desmond Corentin
+📌 Objective: Automate the analysis of open-ended form responses to save time and extract actionable insights.
 
 ---
 
@@ -21,44 +17,46 @@ The application provides 3 main features:
    - Categories: Customer Satisfaction, Market Research, Performance Analysis, Event Planning, Other
 
 2. **Automatic Summarization of Open-Ended Responses**
-  - Abstractively summarizes collected responses
-  - Helps quickly identify key points expressed by users
+   - Abstractively summarizes collected responses
+   - Helps quickly identify key points expressed by users
 
 3. **Intelligent Chatbot**
-  - Answers questions based solely on imported form data
-  - Enables instant interaction with collected responses
+   - Answers questions based solely on imported form data
+   - Enables instant interaction with collected responses
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **Languages & Frameworks:** Python, Streamlit
-- **Data:** Pandas, JSON
-- **LLM:** Ollama (local), Hugging Face (online)
-- **NLP:** Transformers, NLTK, spaCy (optional preprocessing)
-- **APIs & Environments:** Hugging Face Inference API, Python-dotenv
+- **Languages & Frameworks** : Python, Streamlit
+- **Data** : Pandas, JSON
+- **LLM** : Ollama (local), Hugging Face (online)
+- **NLP** : Transformers, NLTK, spaCy (optional preprocessing)
+- **APIs & Environments** : Hugging Face Inference API, Python-dotenv
 
 ---
 
 ## 📂 Project Structure
 
 form-response-analyzer/
-│── app.py # Main Streamlit script
-│── requirements.txt # Python dependencies
-│── .env # Environment variables (API keys)
-│── README.md # Project documentation
+│── app.py # Script principal Streamlit
+│── requirements.txt # Dépendances Python
+│── .env # Variables d'environnement (API keys)
+│── README.md # Documentation du projet
 │── 📂 src/
-│ └── llm_helper.py # LLM abstraction (local or Hugging Face)
-│── 📂 data/ # Example anonymized data
+│ └── llm_helper.py # Abstraction pour LLM (local ou Hugging Face)
+│── 📂 data/ # Exemple de données anonymisées
 │ ├── sample_data_chatbot.json
 │ ├── sample_data_form_goal.json
 │ ├── sample_data_summarization1.json
 │ ├── sample_data_summarization2.json
 │ └── test_data_for_form_goal.json
-│── 📂 notebooks/ # Experimentation notebooks
+│── 📂 notebooks/ # Notebooks pour expérimentations
 │ ├── chatbot.ipynb
 │ └── form_goal.ipynb
 
+
+---
 
 ## ⚡ Installation
 
@@ -70,10 +68,8 @@ cd automatic-form-analysis
 
 2. **Create a virtual environment (optional but recommended)**
 ```bash
-python -m venv venv
-# Linux / macOS
-source venv/bin/activate
-# Windows
+python -m venv venv # Linux / macOS
+source venv/bin/activate # Windows
 venv\Scripts\activate
 ```
 
@@ -129,20 +125,14 @@ streamlit run app.py
 To better understand functionality and prototyping, two Colab notebooks are available:
 
 1. **Chatbot RAG (Retrieval-Augmented Generation)**
-
-- Prototype of the intelligent chatbot using form data
-
-- Explores RAG logic and model interactions
-
-- [Open in Colab](https://colab.research.google.com/drive/19Gdn3ychZTzWUWjaVR2pHmYwREOjjkmR?usp=sharing)  
+   - Prototype of the intelligent chatbot using form data
+   - Explores RAG logic and model interactions
+   - [Open in Colab](https://colab.research.google.com/drive/19Gdn3ychZTzWUWjaVR2pHmYwREOjjkmR?usp=sharing)  
 
 2. **Form Goal Detection**
-
-- Notebook demonstrating automatic question analysis
-
-- Allows testing goal extraction with different datasets
-
-[Open in Colab](https://colab.research.google.com/drive/12E6Mj7iUW6MMUluLj9NZX9b8gCGrLHjX?usp=sharing)  
+   - Notebook demonstrating automatic question analysis
+   - Allows testing goal extraction with different datasets
+   -[Open in Colab](https://colab.research.google.com/drive/12E6Mj7iUW6MMUluLj9NZX9b8gCGrLHjX?usp=sharing)  
 
 ---
 
@@ -150,5 +140,6 @@ To better understand functionality and prototyping, two Colab notebooks are avai
 
 This project is licensed under the MIT License.
 Free to use, modify, and distribute.
+
 
 ---
