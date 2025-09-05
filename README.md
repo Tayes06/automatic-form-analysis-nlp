@@ -1,7 +1,7 @@
 # Analyse automatique des réponses à des formulaires numériques
 
 🎓 Projet de fin de cycle – Ingénierie Informatique  
-👨‍💻 Développeur : Tayo Tate Desmond Corentin  
+👨‍💻 Auteur : Tayo Tate Desmond Corentin  
 📌 Objectif : automatiser l’analyse des réponses ouvertes des formulaires pour gagner du temps et extraire des insights pertinents.
 
 ---
