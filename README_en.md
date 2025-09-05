@@ -40,19 +40,19 @@ The application provides 3 main features:
 
 ```text
 form-response-analyzer/
-│── app.py # Script principal Streamlit
-│── requirements.txt # Dépendances Python
-│── .env # Variables d'environnement (API keys)
-│── README.md # Documentation du projet
+│── app.py # Streamlit main Script
+│── requirements.txt # Python Dependancies
+│── .env # Environments variables (API keys)
+│── README_en.md # Project Documentation
 │── 📂 src/
-│   └── llm_helper.py # Abstraction pour LLM (local ou Hugging Face)
-│── 📂 data/ # Exemple de données anonymisées
+│   └── llm_helper.py # Abstraction for LLM (local or Hugging Face)
+│── 📂 data/ # Examples of unamed datas
 │   ├── sample_data_chatbot.json
 │   ├── sample_data_form_goal.json
 │   ├── sample_data_summarization1.json
 │   ├── sample_data_summarization2.json
 │   └── test_data_for_form_goal.json
-│── 📂 notebooks/ # Notebooks pour expérimentations
+│── 📂 notebooks/ # Notebooks for experiments
 │   ├── chatbot.ipynb
 │   └── form_goal.ipynb
 ```
