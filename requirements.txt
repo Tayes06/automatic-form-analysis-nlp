@@ -1,0 +1,19 @@
+# Interface utilisateur
+streamlit>=1.24.0
+
+# Gestion des données
+pandas>=2.1.0
+numpy>=1.25.0
+
+# LLM local
+ollama>=0.0.7   # à installer si tu utilises Ollama en local
+
+# Appels HTTP / API
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# NLP (optionnel si tu veux prétraiter texte)
+nltk>=3.8.0
+spacy>=3.6.0
+transformers>=4.42.0
+huggingface-hub>=0.18.0

@@ -1,0 +1,327 @@
+[
+  {
+    "questions": [
+      "Comment évaluez-vous la performance de notre produit ?",
+      "Quels sont les points forts de notre produit selon vous ?",
+      "Quels aspects pourraient être améliorés ?",
+      "Utilisez-vous notre produit quotidiennement ?"
+    ],
+    "objectif": "Évaluation de la performance produit"
+  },
+  {
+    "questions": [
+      "Quel problème technique avez-vous rencontré ?",
+      "Quel est le modèle de l'appareil concerné ?",
+      "Avez-vous redémarré l'appareil ?",
+      "Avez-vous des captures d’écran ou vidéos du problème ?",
+      "Depuis combien de temps ce problème persiste-t-il ?"
+    ],
+    "objectif": "Diagnostic de problèmes techniques"
+  },
+  {
+    "questions": [
+      "Quels sont vos objectifs de croissance pour l’année prochaine ?",
+      "Quelle est la taille actuelle de votre équipe ?",
+      "Quels sont vos principaux marchés cibles ?",
+      "Quels obstacles anticipez-vous ?",
+      "Quels outils utilisez-vous pour gérer vos projets ?",
+      "Êtes-vous intéressé par une consultation stratégique ?"
+    ],
+    "objectif": "Planification stratégique d’entreprise"
+  },
+  {
+    "questions": [
+      "Comment avez-vous découvert notre marque ?",
+      "Quels canaux publicitaires préférez-vous ?",
+      "Avez-vous vu nos dernières campagnes ?",
+      "Quels messages publicitaires vous ont marqué ?"
+    ],
+    "objectif": "Analyse de l’efficacité publicitaire"
+  },
+  {
+    "questions": [
+      "Quel est l’objectif principal de votre projet ?",
+      "Quel est votre budget estimé ?",
+      "Quels sont les délais souhaités ?",
+      "Avez-vous des partenaires ou fournisseurs déjà identifiés ?",
+      "Quels sont les risques potentiels du projet ?",
+      "Avez-vous besoin d’une analyse de faisabilité ?",
+      "Quels sont vos critères de succès ?"
+    ],
+    "objectif": "Gestion de projet"
+  },
+  {
+    "questions": [
+      "Quels sont vos besoins en matière de cybersécurité ?",
+      "Avez-vous déjà subi une cyberattaque ?",
+      "Quels sont vos protocoles de sécurité actuels ?",
+      "Combien d’appareils sont connectés à votre réseau ?",
+      "Avez-vous une équipe dédiée à la cybersécurité ?"
+    ],
+    "objectif": "Audit de cybersécurité"
+  },
+  {
+    "questions": [
+      "Quels sont vos symptômes actuels ?",
+      "Avez-vous consulté un médecin récemment ?",
+      "Quels traitements suivez-vous ?",
+      "Avez-vous des allergies médicamenteuses ?",
+      "Quel est votre historique médical familial ?",
+      "Pratiquez-vous une activité physique régulière ?",
+      "Avez-vous des préoccupations spécifiques ?",
+      "Avez-vous des questions sur votre plan de traitement ?"
+    ],
+    "objectif": "Suivi médical"
+  },
+  {
+    "questions": [
+      "Quel type de contenu créez-vous ?",
+      "Quels sont vos objectifs de création de contenu ?",
+      "Quels sont vos canaux de distribution principaux ?",
+      "Quel est votre budget pour la création de contenu ?",
+      "Avez-vous une équipe dédiée à la création ?",
+      "Quels outils utilisez-vous pour la gestion de contenu ?"
+    ],
+    "objectif": "Stratégie de contenu"
+  },
+  {
+    "questions": [
+      "Quel est votre niveau de satisfaction avec notre application mobile ?",
+      "Quelles fonctionnalités utilisez-vous le plus ?",
+      "Avez-vous rencontré des bugs ou des lenteurs ?",
+      "Quelles améliorations souhaiteriez-vous voir ?",
+      "Utilisez-vous l’application sur iOS ou Android ?"
+    ],
+    "objectif": "Amélioration de l’application mobile"
+  },
+  {
+    "questions": [
+      "Quels sont vos besoins logistiques actuels ?",
+      "Quelle est la fréquence de vos expéditions ?",
+      "Quels types de marchandises transportez-vous ?",
+      "Quels sont vos partenaires logistiques actuels ?",
+      "Avez-vous des besoins spécifiques en matière de stockage ?",
+      "Quel est votre budget logistique annuel ?"
+    ],
+    "objectif": "Optimisation logistique"
+  },
+  {
+    "questions": [
+      "Quels sont vos objectifs de formation professionnelle ?",
+      "Quel est votre niveau d’expérience dans ce domaine ?",
+      "Préférez-vous une formation en ligne ou en présentiel ?",
+      "Combien de participants sont attendus ?",
+      "Quels sont les sujets prioritaires à couvrir ?",
+      "Quel est votre budget pour la formation ?"
+    ],
+    "objectif": "Planification de formation professionnelle"
+  },
+  {
+    "questions": [
+      "Quel est le type de votre événement ?",
+      "Quel est le nombre estimé de participants ?",
+      "Quel est votre budget pour l’événement ?",
+      "Avez-vous un lieu en tête ?",
+      "Quels services supplémentaires souhaitez-vous (traiteur, audiovisuel) ?"
+    ],
+    "objectif": "Organisation d’événements"
+  },
+  {
+    "questions": [
+      "Quels sont vos besoins en matière de recrutement ?",
+      "Quels types de postes cherchez-vous à pourvoir ?",
+      "Quel est votre calendrier de recrutement ?",
+      "Quels canaux utilisez-vous pour attirer les candidats ?",
+      "Avez-vous des exigences spécifiques pour les candidats ?",
+      "Quel est votre budget pour le recrutement ?",
+      "Besoin d’aide pour les entretiens ou l’intégration ?"
+    ],
+    "objectif": "Stratégie de recrutement"
+  },
+  {
+    "questions": [
+      "Quels sont vos besoins en matière d’aménagement paysager ?",
+      "Quelle est la superficie de votre terrain ?",
+      "Avez-vous des préférences pour les plantes ou matériaux ?",
+      "Quel est votre budget pour ce projet ?",
+      "Avez-vous besoin d’un entretien régulier ?"
+    ],
+    "objectif": "Aménagement paysager"
+  },
+  {
+    "questions": [
+      "Quels sont vos objectifs de vente pour ce trimestre ?",
+      "Quels sont vos produits ou services phares ?",
+      "Qui sont vos principaux clients ?",
+      "Quels sont vos défis en matière de ventes ?",
+      "Utilisez-vous un CRM ?",
+      "Avez-vous une équipe de vente dédiée ?"
+    ],
+    "objectif": "Analyse des performances de vente"
+  },
+  {
+    "questions": [
+      "Quel est votre niveau de satisfaction avec notre service client ?",
+      "Combien de temps a-t-il fallu pour résoudre votre dernier problème ?",
+      "Quel canal de communication préférez-vous ?",
+      "Avez-vous des suggestions pour améliorer notre service ?",
+      "Recommanderiez-vous notre service client ?"
+    ],
+    "objectif": "Évaluation du service client"
+  },
+  {
+    "questions": [
+      "Quel est l’objectif de votre campagne publicitaire ?",
+      "Quel est votre public cible ?",
+      "Quels sont vos canaux publicitaires préférés ?",
+      "Quel est votre budget pour cette campagne ?",
+      "Quels sont vos indicateurs de succès ?",
+      "Avez-vous besoin d’aide pour la création de contenu ?"
+    ],
+    "objectif": "Planification de campagne publicitaire"
+  },
+  {
+    "questions": [
+      "Quel est le problème principal avec votre appareil ?",
+      "Quelle est la marque et le modèle ?",
+      "Avez-vous effectué des mises à jour récentes ?",
+      "Avez-vous des messages d’erreur spécifiques ?",
+      "Avez-vous contacté le support auparavant ?",
+      "Quel est votre délai pour résoudre ce problème ?"
+    ],
+    "objectif": "Support technique"
+  },
+  {
+    "questions": [
+      "Quels sont vos besoins en matière de design graphique ?",
+      "Quel est le style visuel que vous recherchez ?",
+      "Quels sont les livrables attendus (logo, affiches, etc.) ?",
+      "Quel est votre budget pour ce projet ?",
+      "Quel est votre délai ?",
+      "Fournissez-vous des éléments de marque existants ?"
+    ],
+    "objectif": "Projet de design graphique"
+  },
+  {
+    "questions": [
+      "Quels sont vos objectifs de collecte de fonds ?",
+      "Quel est le montant cible ?",
+      "Quels sont vos donateurs potentiels ?",
+      "Quels canaux utiliserez-vous pour la collecte ?",
+      "Avez-vous une campagne existante ?",
+      "Quel est votre calendrier ?",
+      "Besoin d’aide pour la communication ?"
+    ],
+    "objectif": "Stratégie de collecte de fonds"
+  },
+  {
+    "questions": [
+      "Quels sont vos besoins en matière de traduction ?",
+      "Quelles langues ciblez-vous ?",
+      "Quel est le volume de contenu à traduire ?",
+      "Quel est le domaine du contenu (technique, marketing, etc.) ?",
+      "Quel est votre délai ?",
+      "Avez-vous des glossaires ou guides de style ?"
+    ],
+    "objectif": "Services de traduction"
+  },
+  {
+    "questions": [
+      "Quels sont vos objectifs de bien-être mental ?",
+      "Quels sont vos facteurs de stress actuels ?",
+      "Avez-vous déjà suivi une thérapie ?",
+      "Combien de temps pouvez-vous consacrer aux sessions ?",
+      "Préférez-vous des sessions en ligne ou en personne ?",
+      "Avez-vous des préférences pour le type de thérapie ?"
+    ],
+    "objectif": "Coaching en santé mentale"
+  },
+  {
+    "questions": [
+      "Quel est le type de votre commerce ?",
+      "Quels sont vos produits ou services principaux ?",
+      "Quelle est votre clientèle cible ?",
+      "Quels sont vos défis actuels ?",
+      "Quel est votre budget marketing ?",
+      "Utilisez-vous des outils d’analyse de ventes ?"
+    ],
+    "objectif": "Analyse de commerce de détail"
+  },
+  {
+    "questions": [
+      "Quels sont vos besoins en matière de photographie ?",
+      "Quel est le type de séance (portrait, événement, produit) ?",
+      "Quel est votre budget ?",
+      "Avez-vous un lieu précis en tête ?",
+      "Quel est votre délai pour recevoir les photos ?",
+      "Besoin de retouches spécifiques ?"
+    ],
+    "objectif": "Planification de séance photo"
+  },
+  {
+    "questions": [
+      "Quels sont vos besoins en matière de conseil juridique ?",
+      "Quel est le domaine concerné (droit des affaires, immobilier, etc.) ?",
+      "Avez-vous des documents légaux existants ?",
+      "Quel est votre budget pour les services juridiques ?",
+      "Quel est votre délai ?",
+      "Avez-vous besoin d’une représentation en justice ?"
+    ],
+    "objectif": "Consultation juridique"
+  },
+  {
+    "questions": [
+      "Quels sont vos objectifs de réseaux sociaux ?",
+      "Quelles plateformes utilisez-vous ?",
+      "Quel est votre public cible ?",
+      "Quel est votre budget pour la gestion des réseaux ?",
+      "Avez-vous une stratégie de contenu actuelle ?",
+      "Besoin d’analyse des performances ?"
+    ],
+    "objectif": "Stratégie de réseaux sociaux"
+  },
+  {
+    "questions": [
+      "Quels sont vos besoins en matière d’énergie renouvelable ?",
+      "Quelle est la taille de votre propriété ?",
+      "Quel est votre budget pour l’installation ?",
+      "Avez-vous des préférences pour le type d’énergie (solaire, éolien) ?",
+      "Avez-vous des subventions disponibles ?",
+      "Quel est votre objectif énergétique (réduction des coûts, autonomie) ?"
+    ],
+    "objectif": "Installation d’énergie renouvelable"
+  },
+  {
+    "questions": [
+      "Quels sont vos besoins en matière de déménagement ?",
+      "Quelle est la taille de votre logement actuel ?",
+      "Combien d’objets doivent être transportés ?",
+      "Avez-vous des articles fragiles ou volumineux ?",
+      "Quel est votre budget pour le déménagement ?",
+      "Quel est votre délai ?"
+    ],
+    "objectif": "Planification de déménagement"
+  },
+  {
+    "questions": [
+      "Quels sont vos objectifs d’apprentissage linguistique ?",
+      "Quel est votre niveau actuel dans la langue ?",
+      "Combien de temps pouvez-vous consacrer par semaine ?",
+      "Préférez-vous des cours individuels ou en groupe ?",
+      "Avez-vous des ressources spécifiques à utiliser ?"
+    ],
+    "objectif": "Cours de langue"
+  },
+  {
+    "questions": [
+      "Quels sont vos besoins en matière de gestion de projet ?",
+      "Combien de membres dans votre équipe ?",
+      "Quels outils de gestion utilisez-vous ?",
+      "Quels sont les principaux jalons du projet ?",
+      "Quel est votre budget ?",
+      "Avez-vous des contraintes de ressources ?",
+      "Besoin de formation sur les outils de gestion ?"
+    ],
+    "objectif": "Optimisation de la gestion de projet"
+  }
+]

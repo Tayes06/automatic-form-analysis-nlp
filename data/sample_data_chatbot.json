@@ -1,0 +1,85 @@
+{
+  "form_title": "Enquête de satisfaction sur l'événement annuel 2025",
+  "description": "Ce formulaire vise à recueillir les impressions des participants sur l'organisation, le contenu et l'ambiance de l'événement.",
+  "questions": [
+    "Q1: Comment évaluez-vous la qualité de l'organisation générale de l'événement ?",
+    "Q2: Quels sont les points positifs que vous retenez ?",
+    "Q3: Quels aspects devraient être améliorés pour les prochaines éditions ?",
+    "Q4: Recommanderiez-vous cet événement à vos collègues ou amis ? Pourquoi ?",
+    "Q5: Informations personnelles (nom, âge, sexe, profession)"
+  ],
+  "responses": [
+    {
+      "participant_id": "P001",
+      "metadata": {
+        "nom": "Alice Dupont",
+        "age": 29,
+        "sexe": "F",
+        "profession": "Consultante en communication",
+        "ville": "Paris",
+        "canal_reponse": "Web",
+        "date_reponse": "2025-03-15T10:23:00"
+      },
+      "answers": {
+        "Q1": "Très bonne organisation, tout était clair dès l'inscription.",
+        "Q2": "Les intervenants étaient excellents et la diversité des thématiques était enrichissante.",
+        "Q3": "Améliorer la durée des pauses pour faciliter le networking.",
+        "Q4": "Oui, je recommande car c'était une excellente opportunité de rencontrer des experts."
+      }
+    },
+    {
+      "participant_id": "P002",
+      "metadata": {
+        "nom": "Jean Martin",
+        "age": 42,
+        "sexe": "M",
+        "profession": "Chef de projet IT",
+        "ville": "Lyon",
+        "canal_reponse": "Mobile",
+        "date_reponse": "2025-03-15T11:02:00"
+      },
+      "answers": {
+        "Q1": "Bonne organisation dans l'ensemble mais manque d'indications pour trouver certaines salles.",
+        "Q2": "Les ateliers pratiques étaient vraiment utiles.",
+        "Q3": "Mieux gérer l'acoustique et prévoir plus de signalétique.",
+        "Q4": "Oui, car j’ai appris des choses directement applicables à mon travail."
+      }
+    },
+    {
+      "participant_id": "P003",
+      "metadata": {
+        "nom": "Fatou Ndiaye",
+        "age": 35,
+        "sexe": "F",
+        "profession": "Responsable RH",
+        "ville": "Dakar",
+        "canal_reponse": "Email",
+        "date_reponse": "2025-03-16T09:45:00"
+      },
+      "answers": {
+        "Q1": "Correct mais peut mieux faire, surtout sur la gestion du temps.",
+        "Q2": "La possibilité d’échanger avec d’autres professionnels.",
+        "Q3": "Proposer plus d’animations interactives et réduire la durée des conférences trop longues.",
+        "Q4": "Peut-être, mais cela dépendra des thématiques de la prochaine édition."
+      }
+    },
+    {
+      "participant_id": "P004",
+      "metadata": {
+        "nom": "Carlos Mendoza",
+        "age": 31,
+        "sexe": "M",
+        "profession": "Entrepreneur",
+        "ville": "Madrid",
+        "canal_reponse": "Web",
+        "date_reponse": "2025-03-16T14:12:00"
+      },
+      "answers": {
+        "Q1": "Organisation moyenne, beaucoup de retard sur certaines sessions.",
+        "Q2": "La qualité des intervenants internationaux.",
+        "Q3": "Améliorer la ponctualité et prévoir un meilleur accueil.",
+        "Q4": "Non pour l’instant, car j’ai perdu beaucoup de temps dans l’attente."
+      }
+    }
+  ]
+}

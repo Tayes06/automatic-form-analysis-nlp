@@ -1,0 +1,646 @@
+[
+  {
+    "questions": [
+      "Quel est votre niveau de satisfaction concernant notre service ?",
+      "Comment évalueriez-vous la qualité de notre assistance ?",
+      "Recommanderiez-vous notre produit à un ami ?"
+    ],
+    "objectif": "Évaluation de la satisfaction client"
+  },
+  {
+    "questions": [
+      "Veuillez décrire le problème rencontré avec le produit.",
+      "Quel est le numéro de série de l'appareil ?",
+      "Pouvez-vous nous fournir des captures d'écran ?",
+      "Quand le problème est-il apparu pour la première fois ?"
+    ],
+    "objectif": "Collecte de réclamations techniques"
+  },
+  {
+    "questions": [
+      "Quels sont vos centres d'intérêt principaux ?",
+      "Quel type de contenu préférez-vous ?",
+      "Quel est votre budget pour ce projet ?",
+      "Quels sont vos objectifs à court terme ?",
+      "Quels canaux de communication utilisez-vous le plus ?"
+    ],
+    "objectif": "Qualification de prospects"
+  },
+  {
+    "questions": [
+      "Comment avez-vous entendu parler de notre entreprise ?",
+      "Quels aspects de notre produit vous intéressent le plus ?",
+      "Quels sont les obstacles à l'achat de notre produit ?"
+    ],
+    "objectif": "Analyse des sources de prospects"
+  },
+  {
+    "questions": [
+      "Quel est le délai estimé pour votre projet ?",
+      "Quels sont les principaux défis de votre projet ?",
+      "Avez-vous déjà collaboré avec un prestataire similaire ?",
+      "Quels sont vos critères de sélection pour un partenaire ?",
+      "Quel est le budget alloué à ce projet ?",
+      "Quels sont les résultats attendus ?"
+    ],
+    "objectif": "Évaluation des besoins de projet"
+  },
+  {
+    "questions": [
+      "Comment évaluez-vous la facilité d'utilisation de notre plateforme ?",
+      "Quelles fonctionnalités utilisez-vous le plus souvent ?",
+      "Y a-t-il des fonctionnalités que vous souhaiteriez voir ajoutées ?",
+      "Combien de temps passez-vous sur notre plateforme chaque semaine ?"
+    ],
+    "objectif": "Analyse de l'expérience utilisateur"
+  },
+  {
+    "questions": [
+      "Quels sont les principaux problèmes rencontrés avec notre logiciel ?",
+      "À quelle fréquence rencontrez-vous ces problèmes ?",
+      "Avez-vous contacté notre support technique auparavant ?",
+      "Quels sont les impacts de ces problèmes sur votre travail ?",
+      "Avez-vous des suggestions pour résoudre ces problèmes ?"
+    ],
+    "objectif": "Collecte de retours sur les bogues"
+  },
+  {
+    "questions": [
+      "Quel est votre rôle dans votre organisation ?",
+      "Quels sont vos objectifs professionnels pour l'année prochaine ?",
+      "Quels outils utilisez-vous actuellement pour atteindre ces objectifs ?",
+      "Quels sont les principaux défis de votre rôle ?",
+      "Comment notre produit peut-il vous aider à surmonter ces défis ?",
+      "Quel est votre niveau d'autorité pour prendre des décisions d'achat ?"
+    ],
+    "objectif": "Profilage des décideurs"
+  },
+  {
+    "questions": [
+      "Quels sont les principaux avantages de notre produit selon vous ?",
+      "Comment notre produit se compare-t-il à ceux de la concurrence ?",
+      "Quels aspects de notre produit pourraient être améliorés ?",
+      "Avez-vous rencontré des difficultés lors de l'intégration de notre produit ?"
+    ],
+    "objectif": "Comparaison avec la concurrence"
+  },
+  {
+    "questions": [
+      "Combien de personnes dans votre équipe utilisent notre produit ?",
+      "Quels sont les cas d'utilisation principaux de notre produit dans votre organisation ?",
+      "Comment mesurez-vous le succès de notre produit dans votre équipe ?",
+      "Quels sont les obstacles à une adoption plus large dans votre organisation ?",
+      "Quelles formations ou ressources supplémentaires pourraient aider votre équipe ?"
+    ],
+    "objectif": "Analyse de l'adoption du produit"
+  },
+  {
+    "questions": [
+      "Quel est votre niveau de satisfaction avec notre processus de commande ?",
+      "Combien de temps a pris la livraison de votre commande ?",
+      "Le produit reçu correspondait-il à vos attentes ?",
+      "Avez-vous rencontré des problèmes lors du paiement ?",
+      "Comment pouvons-nous améliorer notre processus de commande ?",
+      "Recommanderiez-vous notre service de livraison ?"
+    ],
+    "objectif": "Évaluation du processus d'achat"
+  },
+  {
+    "questions": [
+      "Quels sont vos besoins en matière de support client ?",
+      "À quelle vitesse attendez-vous une réponse de notre support ?",
+      "Préférez-vous un support par e-mail, téléphone ou chat ?",
+      "Avez-vous déjà utilisé notre base de connaissances en ligne ?",
+      "Comment évaluez-vous la clarté des réponses fournies par notre support ?"
+    ],
+    "objectif": "Amélioration du support client"
+  },
+  {
+    "questions": [
+      "Quels sont les principaux objectifs de votre campagne marketing ?",
+      "Quel est votre public cible ?",
+      "Quels canaux marketing utilisez-vous actuellement ?",
+      "Quel est votre budget marketing pour ce trimestre ?",
+      "Quels sont les indicateurs clés de performance que vous suivez ?",
+      "Avez-vous déjà travaillé avec une agence marketing ?",
+      "Quels sont les défis majeurs de votre stratégie marketing ?"
+    ],
+    "objectif": "Analyse des besoins marketing"
+  },
+  {
+    "questions": [
+      "Quels sont les principaux avantages de notre service selon vous ?",
+      "Quels aspects de notre service pourraient être améliorés ?",
+      "À quelle fréquence utilisez-vous notre service ?",
+      "Recommanderiez-vous notre service à vos collègues ?",
+      "Quels sont les obstacles à une utilisation plus fréquente ?"
+    ],
+    "objectif": "Évaluation de la satisfaction du service"
+  },
+  {
+    "questions": [
+      "Quels sont vos besoins en matière de formation pour notre produit ?",
+      "Quel format de formation préférez-vous (en ligne, en personne, hybride) ?",
+      "Combien de personnes dans votre équipe nécessitent une formation ?",
+      "Quel est votre niveau de connaissance actuel de notre produit ?",
+      "Quels sont les principaux sujets que vous souhaitez couvrir dans la formation ?",
+      "Quel est votre budget pour la formation ?",
+      "Quels sont vos objectifs pour cette formation ?"
+    ],
+    "objectif": "Planification de la formation client"
+  },
+    {
+        "questions": [
+        "Quels sont les principaux défis auxquels vous faites face dans votre secteur ?",
+        "Comment notre produit peut-il vous aider à surmonter ces défis ?",
+        "Quels sont les critères les plus importants pour vous lors du choix d'un fournisseur ?",
+        "Avez-vous des préoccupations concernant la sécurité de nos produits ?",
+        "Comment évaluez-vous notre réputation dans votre secteur ?"
+        ],
+        "objectif": "Compréhension des besoins sectoriels"
+    },
+    {
+        "questions": [
+        "Quels sont les principaux avantages que vous recherchez dans un logiciel de gestion de projet ?",
+        "Comment évaluez-vous l'efficacité des outils de collaboration actuels ?",
+        "Quels sont les principaux obstacles à l'adoption de nouveaux outils dans votre équipe ?",
+        "Avez-vous des préférences pour des intégrations spécifiques avec d'autres logiciels ?",
+        "Quel est votre budget pour un logiciel de gestion de projet ?"
+        ],
+        "objectif": "Analyse des besoins en gestion de projet"
+    },
+    {
+        "questions": [
+        "Quels sont les principaux défis que vous rencontrez dans la gestion de votre chaîne d'approvisionnement ?",
+        "Comment évaluez-vous la performance de vos fournisseurs actuels ?",
+        "Quels critères utilisez-vous pour sélectionner de nouveaux fournisseurs ?",
+        "Avez-vous des préoccupations concernant la durabilité de votre chaîne d'approvisionnement ?",
+        "Comment notre solution peut-elle améliorer votre efficacité opérationnelle ?"
+        ],
+        "objectif": "Optimisation de la chaîne d'approvisionnement"
+    },
+    {
+        "questions": [
+        "Quels sont les principaux objectifs de votre stratégie de contenu ?",
+        "Comment mesurez-vous le succès de vos campagnes de contenu ?",
+        "Quels types de contenu génèrent le plus d'engagement auprès de votre audience ?",
+        "Avez-vous des préférences pour des formats spécifiques (articles, vidéos, infographies) ?",
+        "Quel est votre budget pour la création de contenu ?"
+        ],
+        "objectif": "Stratégie de contenu et engagement"
+    },
+    {
+        "questions": [
+        "Quels sont les principaux défis que vous rencontrez dans la gestion de vos ressources humaines ?",
+        "Comment évaluez-vous l'engagement de vos employés ?",
+        "Quels outils utilisez-vous actuellement pour la gestion des talents ?",
+        "Avez-vous des préoccupations concernant la rétention des talents ?",
+        "Comment notre solution peut-elle améliorer votre processus de recrutement ?"
+        ],
+        "objectif": "Optimisation des ressources humaines"
+    },
+    {
+        "questions": [
+        "Quels sont les principaux défis que vous rencontrez dans la gestion de vos finances ?",
+        "Comment évaluez-vous la performance de vos investissements actuels ?",
+        "Quels outils utilisez-vous pour la gestion financière ?",
+        "Avez-vous des préoccupations concernant la conformité réglementaire ?",
+        "Comment notre solution peut-elle améliorer votre gestion financière ?"
+        ],
+        "objectif": "Optimisation de la gestion financière"
+    },
+    {
+        "questions": [
+        "Quels sont les principaux défis que vous rencontrez dans la gestion de votre infrastructure informatique ?",
+        "Comment évaluez-vous la sécurité de vos systèmes actuels ?",
+        "Quels outils utilisez-vous pour la gestion de votre infrastructure ?",
+        "Avez-vous des préoccupations concernant la scalabilité de vos systèmes ?",
+        "Comment notre solution peut-elle améliorer votre infrastructure informatique ?"
+        ],
+        "objectif": "Optimisation de l'infrastructure informatique"
+    },
+    {
+        "questions": [
+        "Quels sont les principaux défis que vous rencontrez dans la gestion de votre relation client ?",
+        "Comment évaluez-vous la satisfaction de vos clients actuels ?",
+        "Quels outils utilisez-vous pour la gestion de la relation client ?",
+        "Avez-vous des préoccupations concernant la fidélisation de vos clients ?",
+        "Comment notre solution peut-elle améliorer votre relation client ?"
+        ],
+        "objectif": "Optimisation de la relation client"
+    },
+    {
+        "questions": [
+        "Quels sont les principaux défis que vous rencontrez dans la gestion de vos opérations ?",
+        "Comment évaluez-vous l'efficacité de vos processus actuels ?",
+        "Quels outils utilisez-vous pour la gestion des opérations ?",
+        "Avez-vous des préoccupations concernant la productivité de votre équipe ?",
+        "Comment notre solution peut-elle améliorer vos opérations ?"
+        ],
+        "objectif": "Optimisation des opérations"
+    },
+    {
+        "questions": [
+        "Quels sont les principaux défis que vous rencontrez dans la gestion de votre marketing digital ?",
+        "Comment évaluez-vous l'efficacité de vos campagnes digitales actuelles ?",
+        "Quels outils utilisez-vous pour la gestion de votre marketing digital ?",
+        "Avez-vous des préoccupations concernant le retour sur investissement de vos campagnes ?",
+        "Comment notre solution peut-elle améliorer votre marketing digital ?"
+        ],
+        "objectif": "Optimisation du marketing digital"
+    },
+    
+    
+
+  {
+    "questions": [
+      "Quel est votre niveau de satisfaction global avec notre entreprise ?",
+      "Comment évalueriez-vous notre réactivité aux demandes ?",
+      "Quels aspects de notre service appréciez-vous le plus ?",
+      "Y a-t-il des domaines où nous pourrions nous améliorer ?"
+    ],
+    "objectif": "Sondage général de satisfaction"
+  },
+  {
+    "questions": [
+      "Décrivez l'incident survenu avec notre produit.",
+      "Quelle est la date et l'heure approximative de l'incident ?",
+      "Avez-vous des preuves ou des logs à partager ?",
+      "Quel impact cela a-t-il eu sur votre activité ?",
+      "Avez-vous tenté de résoudre le problème vous-même ?"
+    ],
+    "objectif": "Rapport d'incidents"
+  },
+  {
+    "questions": [
+      "Quels sont vos objectifs commerciaux pour les six prochains mois ?",
+      "Quelle est la taille de votre entreprise ?",
+      "Utilisez-vous déjà des outils similaires au nôtre ?",
+      "Quel est votre rôle dans les décisions d'achat ?",
+      "Quels sont vos défis actuels en matière de productivité ?",
+      "Êtes-vous intéressé par une démonstration gratuite ?"
+    ],
+    "objectif": "Évaluation des leads B2B"
+  },
+  {
+    "questions": [
+      "Comment avez-vous trouvé notre site web ?",
+      "Quelles pages avez-vous visitées ?",
+      "Avez-vous rencontré des difficultés de navigation ?",
+      "Quel est votre avis sur le design du site ?",
+      "Recommanderiez-vous notre site à d'autres ?"
+    ],
+    "objectif": "Analyse de l'expérience sur le site web"
+  },
+  {
+    "questions": [
+      "Quels sont les principaux objectifs de votre événement ?",
+      "Quel est le nombre d'invités attendu ?",
+      "Quel est votre budget pour l'événement ?",
+      "Quels services spécifiques recherchez-vous (traiteur, décoration, etc.) ?",
+      "Avez-vous des contraintes de date ou de lieu ?",
+      "Quel est le thème de l'événement ?",
+      "Avez-vous besoin d'assistance pour la promotion ?"
+    ],
+    "objectif": "Planification d'événements"
+  },
+  {
+    "questions": [
+      "Quel est votre niveau d'expertise en programmation ?",
+      "Quels langages de programmation maîtrisez-vous ?",
+      "Quels sont vos projets récents ?",
+      "Pourquoi postulez-vous chez nous ?",
+      "Quelles sont vos attentes salariales ?"
+    ],
+    "objectif": "Entretien d'embauche pour développeur"
+  },
+  {
+    "questions": [
+      "Quels sont les symptômes que vous ressentez ?",
+      "Depuis quand ces symptômes sont-ils apparus ?",
+      "Avez-vous des antécédents médicaux pertinents ?",
+      "Prenez-vous des médicaments actuellement ?",
+      "Avez-vous des allergies connues ?",
+      "Quel est votre mode de vie (alimentation, exercice) ?",
+      "Avez-vous voyagé récemment ?",
+      "Y a-t-il des facteurs de stress dans votre vie ?"
+    ],
+    "objectif": "Consultation médicale initiale"
+  },
+  {
+    "questions": [
+      "Quel est le sujet principal de votre recherche ?",
+      "Quelles sources avez-vous déjà consultées ?",
+      "Quel est votre délai pour obtenir l'information ?",
+      "Préférez-vous des ressources en ligne ou imprimées ?"
+    ],
+    "objectif": "Assistance en recherche bibliothécaire"
+  },
+  {
+    "questions": [
+      "Quels sont vos objectifs financiers à long terme ?",
+      "Quel est votre revenu annuel ?",
+      "Quelles sont vos dépenses mensuelles moyennes ?",
+      "Avez-vous des dettes en cours ?",
+      "Quel est votre niveau de tolérance au risque pour les investissements ?",
+      "Avez-vous un fonds d'urgence ?",
+      "Quels sont vos plans de retraite ?"
+    ],
+    "objectif": "Conseil financier personnel"
+  },
+  {
+    "questions": [
+      "Quel type de voyage planifiez-vous (affaires, loisirs) ?",
+      "Quelles sont vos dates de voyage ?",
+      "Quel est votre budget pour le voyage ?",
+      "Préférez-vous des vols directs ou avec escales ?",
+      "Avez-vous des préférences pour les compagnies aériennes ?",
+      "Besoin d'hébergement ou de location de voiture ?"
+    ],
+    "objectif": "Réservation de voyages"
+  },
+  {
+    "questions": [
+      "Quel est le problème principal avec votre véhicule ?",
+      "Quelle est la marque et le modèle de votre véhicule ?",
+      "Quel est le kilométrage actuel ?",
+      "Avez-vous remarqué des bruits inhabituels ?",
+      "Quand avez-vous effectué la dernière maintenance ?",
+      "Avez-vous des codes d'erreur à signaler ?",
+      "Préférez-vous des pièces d'origine ou génériques ?",
+      "Quel est votre budget pour la réparation ?"
+    ],
+    "objectif": "Diagnostic automobile"
+  },
+  {
+    "questions": [
+      "Quels sont vos objectifs de fitness ?",
+      "Quel est votre niveau de forme physique actuel ?",
+      "Avez-vous des restrictions médicales ?",
+      "Combien de fois par semaine pouvez-vous vous entraîner ?",
+      "Préférez-vous des entraînements en groupe ou individuels ?"
+    ],
+    "objectif": "Plan d'entraînement personnel"
+  },
+  {
+    "questions": [
+      "Quel est le thème de votre site web ?",
+      "Quelles fonctionnalités clés souhaitez-vous ?",
+      "Quel est votre budget pour le développement ?",
+      "Avez-vous déjà un nom de domaine ?",
+      "Quel est votre délai pour le lancement ?",
+      "Fournirez-vous le contenu ou besoin d'aide ?",
+      "Préférez-vous un design responsive ?",
+      "Intégration avec des outils tiers nécessaire ?",
+      "Quel est votre public cible ?"
+    ],
+    "objectif": "Conception de site web"
+  },
+  {
+    "questions": [
+      "Quels sont les détails de l'accident ?",
+      "Y a-t-il des témoins ?",
+      "Avez-vous des photos ou vidéos de la scène ?",
+      "Quel est le montant des dommages estimés ?",
+      "Avez-vous contacté la police ?",
+      "Quelle est votre couverture d'assurance ?"
+    ],
+    "objectif": "Déclaration d'assurance"
+  },
+  {
+    "questions": [
+      "Quel est votre poste actuel ?",
+      "Quelles sont vos responsabilités principales ?",
+      "Quels sont vos accomplissements récents ?",
+      "Pourquoi cherchez-vous un nouvel emploi ?",
+      "Quelles sont vos compétences clés ?",
+      "Quel est votre salaire actuel ?",
+      "Disponible pour un déménagement ?"
+    ],
+    "objectif": "Recrutement RH"
+  },
+  {
+    "questions": [
+      "Quel type de bien immobilier recherchez-vous ?",
+      "Quel est votre budget maximum ?",
+      "Quelle est la localisation préférée ?",
+      "Combien de chambres souhaitez-vous ?",
+      "Avez-vous besoin d'un jardin ou d'un garage ?",
+      "Êtes-vous prêt à rénover ?"
+    ],
+    "objectif": "Recherche immobilière"
+  },
+  {
+    "questions": [
+      "Quels sont vos symptômes digestifs ?",
+      "Quelle est votre alimentation typique ?",
+      "Buvez-vous de l'alcool ou fumez-vous ?",
+      "Avez-vous des allergies alimentaires ?",
+      "Quel est votre niveau d'activité physique ?",
+      "Prenez-vous des suppléments ?",
+      "Avez-vous des antécédents familiaux de problèmes digestifs ?"
+    ],
+    "objectif": "Consultation nutritionnelle"
+  },
+  {
+    "questions": [
+      "Quel est le concept de votre application ?",
+      "Pour quelles plateformes (iOS, Android, web) ?",
+      "Quelles fonctionnalités principales ?",
+      "Quel est votre budget de développement ?",
+      "Quel est votre délai ?",
+      "Avez-vous des designs UI/UX prêts ?",
+      "Intégration avec des API externes ?",
+      "Quel est votre modèle économique ?",
+      "Besoin de maintenance post-lancement ?"
+    ],
+    "objectif": "Développement d'application mobile"
+  },
+  {
+    "questions": [
+      "Quels sont vos objectifs académiques ?",
+      "Quel est votre GPA actuel ?",
+      "Quelles matières vous posent problème ?",
+      "Combien d'heures par semaine pouvez-vous consacrer aux études ?",
+      "Préférez-vous des sessions en ligne ou en personne ?"
+    ],
+    "objectif": "Tutorat étudiant"
+  },
+  {
+    "questions": [
+      "Quel est le type de votre entreprise ?",
+      "Quel est votre chiffre d'affaires annuel ?",
+      "Quels sont vos défis fiscaux actuels ?",
+      "Avez-vous des employés ?",
+      "Utilisez-vous un logiciel comptable ?",
+      "Besoin d'audit ou de déclaration fiscale ?",
+      "Quel est votre budget pour les services comptables ?"
+    ],
+    "objectif": "Services comptables"
+  },
+  {
+    "questions": [
+      "Quels sont les détails de votre projet de rénovation ?",
+      "Quelle est la superficie concernée ?",
+      "Quel est votre budget ?",
+      "Avez-vous des plans ou des idées spécifiques ?",
+      "Quel est votre délai ?",
+      "Préférez-vous des matériaux écologiques ?",
+      "Besoin de permis de construction ?"
+    ],
+    "objectif": "Rénovation domiciliaire"
+  },
+  {
+    "questions": [
+      "Quel est votre style musical préféré ?",
+      "Quels instruments jouez-vous ?",
+      "Quel est votre niveau d'expérience ?",
+      "Combien de temps pouvez-vous pratiquer par semaine ?",
+      "Préférez-vous des leçons individuelles ou en groupe ?"
+    ],
+    "objectif": "Cours de musique"
+  },
+  {
+    "questions": [
+      "Quels sont vos objectifs de marketing digital ?",
+      "Quel est votre public cible ?",
+      "Quels canaux utilisez-vous actuellement ?",
+      "Quel est votre budget mensuel ?",
+      "Avez-vous du contenu prêt ?",
+      "Besoin d'analyse de performance ?",
+      "Intéressé par le SEO ou les ads payantes ?",
+      "Quel est votre site web actuel ?"
+    ],
+    "objectif": "Stratégie marketing digital"
+  },
+  {
+    "questions": [
+      "Quel est le problème avec votre ordinateur ?",
+      "Quelle est la marque et le modèle ?",
+      "Quel système d'exploitation utilisez-vous ?",
+      "Avez-vous installé des logiciels récemment ?",
+      "Avez-vous des messages d'erreur ?",
+      "Votre appareil est-il sous garantie ?"
+    ],
+    "objectif": "Support informatique"
+  },
+  {
+    "questions": [
+      "Quels sont vos besoins en assurance vie ?",
+      "Quel est votre âge et votre état de santé ?",
+      "Avez-vous des dépendants ?",
+      "Quel est votre revenu ?",
+      "Préférez-vous une assurance temporaire ou permanente ?",
+      "Quel montant de couverture souhaitez-vous ?"
+    ],
+    "objectif": "Conseil en assurance"
+  },
+  {
+    "questions": [
+      "Quel type de cuisine préférez-vous ?",
+      "Avez-vous des restrictions alimentaires ?",
+      "Pour combien de personnes ?",
+      "Quel est votre budget par personne ?",
+      "Préférez-vous un service à table ou buffet ?",
+      "Avez-vous un lieu spécifique en tête ?"
+    ],
+    "objectif": "Organisation de catering"
+  },
+  {
+    "questions": [
+      "Quels sont vos objectifs de perte de poids ?",
+      "Quel est votre poids actuel et votre taille ?",
+      "Quelle est votre routine d'exercice ?",
+      "Quelle est votre alimentation actuelle ?",
+      "Avez-vous des conditions médicales ?",
+      "Combien de temps par semaine pour les séances ?",
+      "Préférez-vous des entraînements à domicile ou en salle ?"
+    ],
+    "objectif": "Coaching en perte de poids"
+  },
+  {
+    "questions": [
+      "Quel est le sujet de votre plainte ?",
+      "Quand cela s'est-il produit ?",
+      "Avez-vous contacté le service client auparavant ?",
+      "Quelles preuves avez-vous ?",
+      "Quelle résolution attendez-vous ?"
+    ],
+    "objectif": "Gestion des plaintes clients"
+  },
+  {
+    "questions": [
+      "Quels sont vos intérêts en matière de voyages ?",
+      "Quel est votre budget vacances ?",
+      "Préférez-vous des destinations nationales ou internationales ?",
+      "Voyagez-vous seul ou en groupe ?",
+      "Quelle durée de séjour envisagez-vous ?",
+      "Avez-vous des préférences pour l'hébergement ?"
+    ],
+    "objectif": "Planification de vacances"
+  },
+  {
+    "questions": [
+      "Quel est votre projet de recherche ?",
+      "Quelles méthodes utiliserez-vous ?",
+      "Quel est votre échantillon cible ?",
+      "Quel est votre budget ?",
+      "Quel est votre calendrier ?",
+      "Besoin d'approbation éthique ?",
+      "Quels outils d'analyse utiliserez-vous ?",
+      "Avez-vous une équipe de recherche ?"
+    ],
+    "objectif": "Conception de recherche académique"
+  },
+  {
+    "questions": [
+      "Quels sont vos objectifs de développement personnel ?",
+      "Quelles compétences souhaitez-vous améliorer ?",
+      "Quel est votre niveau actuel dans ces compétences ?",
+      "Combien de temps pouvez-vous consacrer par semaine ?",
+      "Préférez-vous des cours en ligne ou en personne ?"
+    ],
+    "objectif": "Coaching en développement personnel"
+  },
+  {
+    "questions": [
+      "Quels sont les principaux défis de votre entreprise ?",
+      "Comment évaluez-vous votre position sur le marché ?",
+      "Quels sont vos objectifs de croissance pour l'année prochaine ?",
+      "Avez-vous des préoccupations concernant la concurrence ?",
+      "Comment notre solution peut-elle vous aider à atteindre vos objectifs ?"
+    ],
+    "objectif": "Analyse stratégique d'entreprise"
+  },
+  {
+    "questions": [
+      "Quels sont les principaux défis de votre équipe de vente ?",
+      "Comment évaluez-vous la performance actuelle de votre équipe ?",
+      "Quels outils utilisez-vous pour suivre les performances de vente ?",
+      "Avez-vous des besoins spécifiques en formation pour votre équipe ?",
+      "Comment notre solution peut-elle améliorer vos ventes ?"
+    ],
+    "objectif": "Optimisation des ventes"
+  },
+  {
+    "questions": [
+      "Quels sont les principaux défis de votre équipe de support ?",
+      "Comment évaluez-vous la satisfaction de vos clients avec le support ?",
+      "Quels outils utilisez-vous pour gérer les tickets de support ?",
+      "Avez-vous des besoins spécifiques en formation pour votre équipe de support ?",
+      "Comment notre solution peut-elle améliorer votre service client ?"
+    ],
+    "objectif": "Optimisation du support client"
+  },
+  {
+    "questions": [
+      "Quels sont les principaux défis de votre équipe de marketing ?",
+      "Comment évaluez-vous l'efficacité de vos campagnes actuelles ?",
+      "Quels outils utilisez-vous pour suivre les performances marketing ?",
+      "Avez-vous des besoins spécifiques en formation pour votre équipe de marketing ?",
+      "Comment notre solution peut-elle améliorer vos efforts marketing ?"
+    ],
+    "objectif": "Optimisation du marketing"
+  }
+  
+]
