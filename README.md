@@ -38,22 +38,22 @@ L’application propose 3 fonctionnalités principales :
 
 ## 📂 Structure du projet
 
-form-response-analyzer/
-│── app.py # Script principal Streamlit
-│── requirements.txt # Dépendances Python
-│── .env # Variables d'environnement (API keys)
-│── README.md # Documentation du projet
-│── 📂 src/
-│ └── llm_helper.py # Abstraction pour LLM (local ou Hugging Face)
-│── 📂 data/ # Exemple de données anonymisées
-│ ├── sample_data_chatbot.json
-│ ├── sample_data_form_goal.json
-│ ├── sample_data_summarization1.json
-│ ├── sample_data_summarization2.json
-│ └── test_data_for_form_goal.json
-│── 📂 notebooks/ # Notebooks pour expérimentations
-│ ├── chatbot.ipynb
-│ └── form_goal.ipynb
+form-response-analyzer/  
+│── app.py # Script principal Streamlit  
+│── requirements.txt # Dépendances Python  
+│── .env # Variables d'environnement (API keys)  
+│── README.md # Documentation du projet  
+│── 📂 src/  
+│ └── llm_helper.py # Abstraction pour LLM (local ou Hugging Face)  
+│── 📂 data/ # Exemple de données anonymisées  
+│ ├── sample_data_chatbot.json  
+│ ├── sample_data_form_goal.json  
+│ ├── sample_data_summarization1.json  
+│ ├── sample_data_summarization2.json  
+│ └── test_data_for_form_goal.json  
+│── 📂 notebooks/ # Notebooks pour expérimentations  
+│ ├── chatbot.ipynb  
+│ └── form_goal.ipynb  
 
 
 ---
