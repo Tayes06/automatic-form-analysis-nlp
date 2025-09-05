@@ -62,27 +62,30 @@ form-response-analyzer/
 ```bash
 git clone https://github.com/ton-username/automatic-form-analysis.git
 cd automatic-form-analysis
-
+```
 
 2. **Créer un environnement virtuel (optionnel mais recommandé)**
-
+```
 python -m venv venv
 source venv/bin/activate  # Linux / macOS
 venv\Scripts\activate     # Windows
-
+```
 
 3. **Installer les dépendances**
-
+```
 pip install -r requirements.txt
-
+```
 
 4. **Créer un fichier .env avec vos clés API :**
-
+```
 # Clé Hugging Face Inference API
 HF_API_KEY=hf_xxxxxxxxxxxxxxxxxxxxx
+```
 
 5. **🏃‍♂️ Lancer l’application**
+```
 streamlit run app.py
+```
 
 * L’interface Streamlit s’ouvrira dans ton navigateur.
 
@@ -110,9 +113,9 @@ streamlit run app.py
 
 🔗 Liens utiles
 
-* Hugging Face Models – Mistral
+- [Hugging Face Models – Mistral](https://huggingface.co/models)
+- [Streamlit Documentation](https://docs.streamlit.io/)
 
-* Streamlit Documentation
 
 ---
 
