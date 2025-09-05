@@ -2,9 +2,9 @@ Pour la version en français, [Cliquez ici](README.md)
 
 # Automatic Analysis of Digital Form Responses
 
-🎓 Final Year Project – Computer Engineering
-👨‍💻 Author: Tayo Tate Desmond Corentin
-📌 Objective: Automate the analysis of open-ended form responses to save time and extract actionable insights.
+🎓 Final Year Project – Computer Engineering  
+👨‍💻 Author: Tayo Tate Desmond Corentin  
+📌 Objective: Automate the analysis of open-ended form responses to save time and extract actionable insights.  
 
 ---
 
